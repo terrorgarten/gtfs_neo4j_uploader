@@ -43,7 +43,7 @@ To install on linux, follow these steps:
 
 clone this repository:
 ```bash
-git clone <the link>
+git clone https://github.com/terrorgarten/gtfs_neo4j_uploader
 ```
 
 cd to the folder
