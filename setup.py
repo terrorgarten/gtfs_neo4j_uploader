@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='gtfs_neo4j_uploader',
+    name='gnuploader',
     version='1.0.0',
     packages=find_packages(),
     scripts=['uploader.py'],
